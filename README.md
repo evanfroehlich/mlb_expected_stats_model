@@ -13,6 +13,6 @@ The current development check trains on 2023-2025 and tests on 2026.
 1. Expand the date range and cache the raw Statcast extract. (Complete for the development window)
 2. Establish a simple baseline using the overall hit rate. (Complete)
 3. Fit a logistic regression with one-hot encoded categorical features. (Complete)
-4. Compare it with a nonlinear model such as random forests and gradient boosting (In-progress).
-5. Aggregate predicted hit probabilities by batter to create an expected batting average.
+4. Compare it with a nonlinear model such as random forests and gradient boosting (Complete).
+5. Aggregate predicted hit probabilities by batter to create an expected batting average (Complete).
 6. Extend to xwOBA using multi-label classification models.
